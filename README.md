@@ -14,13 +14,21 @@
 </p>
 
 
-NFTBOY is a pioneer in gaming. We create retro arcade experiences and pair them with hyper-realistic collectible NFTs.
 
 Fully generative, jaw-dropping, and inherently nostalgic. Pair a console with NFTBOY cartridges to access playable retro arcade games.
 
 [Website](https://playnftboy.com/)
 
 [OpenSea](https://opensea.io/collection/consoles-nftboy)
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
 
 
 
@@ -42,14 +50,6 @@ Fully generative, jaw-dropping, and inherently nostalgic. Pair a console with NF
 
   
 
-
-
-  
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
