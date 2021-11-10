@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img width="777" height="393" src="/NFTBOY banner.png">
+  <img width="1080" height="600" src="/NFTBOY banner.png">
 </p>
 
 
