@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img width="1080" height="300" src="/Sherbet Banner.png">
+  <img width="1080" height="300" src="/NFTBOY banner.png">
 </p>
 
 
